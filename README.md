@@ -3,3 +3,4 @@
 ### 吃瓜头条-明星网红那些不可告人的秘密
 ### 内容最全的吃瓜中心-头条黑料
 ### 明星网红吃瓜-备用地址
+https://github.com/chiguatoutiao/chiguatoutiao/wiki/chiguatoutiao
